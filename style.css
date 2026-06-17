@@ -12,7 +12,7 @@
       scroll-behavior: smooth;
     }
 
-    /* Color Scheme — Modern Cyber Cafe with Trust & Energy */
+    /* Color Scheme */
     :root {
       --primary-dark: #0B2B40;     /* deep navy/teal - headers, footer */
       --primary-accent: #E67E22;   /* warm orange - buttons, highlights (energy) */
@@ -31,7 +31,7 @@
       padding: 0 2rem;
     }
 
-    /* ========== NAVIGATION ========== */
+    /*  NAVIGATION  */
     nav {
       background: var(--card-white);
       box-shadow: 0 1px 3px rgba(0,0,0,0.05);
