@@ -410,3 +410,31 @@
       .container { padding: 0 1.2rem; }
       .hero-content h1 { font-size: 2.2rem; }
     }
+.whatsapp{
+
+position:fixed;
+
+right:25px;
+
+bottom:25px;
+
+width:60px;
+
+height:60px;
+
+background:#25D366;
+
+border-radius:50%;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+color:white;
+
+font-size:30px;
+
+text-decoration:none;
+}
